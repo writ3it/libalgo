@@ -1,0 +1,16 @@
+{
+    "name": "writ3it/libalgo",
+    "description": "PHP library of algorithms.",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "writ3it",
+            "email": "git@writ3it.tech"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "writ3it/libalgo-knapsack-problem": "^0.1.0"
+    }
+}
